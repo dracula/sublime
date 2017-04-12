@@ -150,6 +150,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Ruby Regexp</string>
+			<key>scope</key>
+			<string>source.ruby string.regexp.classic.ruby,source.ruby string.regexp.mod-r.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#ff5555</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Keyword</string>
 			<key>scope</key>
 			<string>keyword</string>

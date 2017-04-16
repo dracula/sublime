@@ -2,6 +2,8 @@
 
 [
 
+    // Side-Bar
+
     {
         "class": "sidebar_container",
         // $base02:    #6E7EAC         
@@ -61,6 +63,15 @@
         "parents": [{"class": "tree_row", "attributes": ["expandable"]}],
         "settings": ["bold_folder_labels"],
         "font.bold": true
+    },
+    
+
+    // Title-bar (OS X 10.10+, dev build)
+    {
+        "class": "title_bar",
+        "bg": [0, 0, 0, 1.0],
+        "fg": [200,200,200], 
     }
+
 
 ]

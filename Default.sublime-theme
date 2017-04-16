@@ -66,17 +66,17 @@
     },
     
 
-    // Title-bar (OS X 10.10+, dev build)
+    // title_bar (OS X 10.10+, dev build)
     {
         "class": "title_bar",
         "bg": [0, 0, 0, 1.0],
         "fg": [200,200,200], 
     },
+    
+    // status_bar
     {
         "class": "status_bar",
         "layer0.tint": [0, 0, 0, 1.0],
-        // "bg": [0, 0, 0, 1.0],
-        // "fg": [200,200,200], 
     },
 
 

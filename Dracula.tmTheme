@@ -708,6 +708,19 @@
 				<string>#6272A4</string>
 			</dict>
 		</dict>
+
+		<!-- PHP Tweaks -->
+		<dict>
+			<key>name</key>
+			<string>PHP: Punctuation Accessor</string>
+			<key>scope</key>
+			<string>punctuation.accessor</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF79C6</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>83091B89-765E-4F0D-9275-0EC6CB084126</string>

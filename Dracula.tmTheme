@@ -817,6 +817,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Punctuation Section Embedded End</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.end</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ff79c6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Punctuation Separator Namespace</string>
 			<key>scope</key>
 			<string>punctuation.separator.namespace</string>

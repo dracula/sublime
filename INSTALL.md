@@ -12,7 +12,7 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    $ git clone https://github.com/dracula/sublime.git "Dracula Color Scheme"
+    git clone https://github.com/dracula/sublime.git "Dracula Color Scheme"
 
 #### Install manually
 

@@ -69,11 +69,6 @@
             "foreground": "var(purple)"
         },
         {
-            "name": "User-defined constant",
-            "scope": "constant.character, constant.other",
-            "foreground": "var(purple)"
-        },
-        {
             "name": "Variable",
             "scope": "variable"
         },

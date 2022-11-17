@@ -699,8 +699,8 @@
         // colours wrong, but because I'm not acutely familiar with C++,
         // I'll try and mimic the behaviour into ST.
         {
-            "name": "[C++] Double-colon Accessor",
-            "scope": "punctuation.accessor.double-colon.c++",
+            "name": "[Ruby] [C++] Double-colon Accessor",
+            "scope": "punctuation.accessor.double-colon.ruby, punctuation.accessor.double-colon.c++",
             "foreground": "var(pink)"
         },
         {

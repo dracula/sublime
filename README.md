@@ -8,6 +8,10 @@
 
 All instructions can be found at [draculatheme.com/sublime](https://draculatheme.com/sublime).
 
+## Dracula PRO
+
+[![Dracula PRO](./dracula-pro.png)](https://draculatheme.com/pro)
+
 ## Screenshots
 
 <div align="center">
